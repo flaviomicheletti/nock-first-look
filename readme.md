@@ -7,7 +7,7 @@ Um exemplo minimalista do uso do [Nock](https://github.com/nock/nock).
 
 ### Tutorial 
 
- Os vídeos do Wlademar Neto me ajudaram muito.
+ Os vídeos do Waldemar Neto me ajudaram muito.
 
  Segue na ordem...
 
