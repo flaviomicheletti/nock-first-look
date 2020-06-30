@@ -2,9 +2,7 @@
 
 # Nock js
 
-https://github.com/nock/nock
-
-Um exemplo minimalista do uso do Nock.
+Um exemplo minimalista do uso do [Nock](https://github.com/nock/nock).
 
 
 ### Tutorial 
