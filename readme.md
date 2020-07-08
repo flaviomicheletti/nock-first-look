@@ -26,3 +26,8 @@ Um exemplo minimalista do uso do [Nock](https://github.com/nock/nock).
 - https://github.com/klamping/nock-sample
 - https://github.com/waldemarnt/node-docker-example
 - https://github.com/dominicfraser/NockExamples
+
+
+### Veja também
+
+- https://www.codota.com/code/javascript/functions/nock/nock
