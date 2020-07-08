@@ -1,6 +1,5 @@
 const nock = require('nock');
 const request = require("request");
-// const axios = require('axios');
 
 //
 // config

@@ -4,6 +4,9 @@
 
 Um exemplo minimalista do uso do [Nock](https://github.com/nock/nock).
 
+Para realizer as requisiçõe eu utilizei o [request](https://www.npmjs.com/package/request),
+lembre-se le foi descontinuado.
+
 
 ### Tutorial 
 
