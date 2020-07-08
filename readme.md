@@ -7,6 +7,10 @@ Um exemplo minimalista do uso do [Nock](https://github.com/nock/nock).
 Para realizer as requisiçõe eu utilizei o [request](https://www.npmjs.com/package/request),
 lembre-se le foi descontinuado.
 
+> "O Nock só pode interceptar solicitações HTTP que estão sendo feitas no mesmo processo do nó em que
+> os testes estão em execução."
+>
+> https://blog.hubwa.re/dont-nock-our-integration-tests-fa9682ba7155
 
 ### Tutorial 
 
@@ -34,3 +38,9 @@ lembre-se le foi descontinuado.
 ### Veja também
 
 - https://www.codota.com/code/javascript/functions/nock/nock
+- https://tobythetesterblog.wordpress.com/2016/05/01/mocking-a-restful-api-using-nock-supertest-mocha-and-chai/
+- https://blog.neverendingqs.com/2017/03/13/ensure-all-nock-interceptors-are-used.html
+- https://codewithhugo.com/express-request-response-mocking/
+- https://artsy.github.io/blog/2018/08/24/How-to-debug-jest-tests/
+- https://imasters.com.br/desenvolvimento/interceptando-requisicoes-http-com-o-nock-do-node-js
+- https://meeshkan.com/blog/unmock-vs-nock/
