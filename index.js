@@ -9,9 +9,9 @@ const url = 'http://jservice.io/api/';
 //
 // nock
 //
-const interceptor = nock(url);
+const scope = nock(url);
 
-interceptor.get("/random")
+scope.get("/random")
     .reply(200, [{
         question: "This is the clue."
     }])
