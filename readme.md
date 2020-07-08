@@ -29,3 +29,8 @@ lembre-se le foi descontinuado.
 - https://github.com/klamping/nock-sample
 - https://github.com/waldemarnt/node-docker-example
 - https://github.com/dominicfraser/NockExamples
+
+
+### Veja também
+
+- https://www.codota.com/code/javascript/functions/nock/nock
